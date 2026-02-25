@@ -1,6 +1,5 @@
-# Advent of Code 2017 solutions in Go
+# Advent of Code solutions
 
-Here is my set of solutions to the Advent of Code 2017 puzzle set located at
-<http://adventofcode.com/2017/>
+Here is my set of solutions to the Advent of Code puzzles
 
 Reading these solutions would obviously be spoiling the challenge for yourself
